@@ -15,3 +15,8 @@ tar xvfz prometheus-*.tar.gz
 6. 前往 http://localhost:9090 查看 UI 和 Graph，如： http://localhost:9090/graph?g0.range_input=5m&g0.expr=ocjavametrics_latency_bucket&g0.tab=0
 7. 执行io.opencensus.metrics.quickstart.Repl.java 中的 main 方法，输入一些字符串并回车
 8. 刷新网页查看图表的变化
+
+### 参考链接
+https://opencensus.io/quickstart/java/metrics/#0
+https://prometheus.io/docs/prometheus/latest/getting_started/
+https://prometheus.io/download/
