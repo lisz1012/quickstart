@@ -1,7 +1,10 @@
 # 使用OpenCensus（体验版）
 
-1. 下载Prometheus：```wget https://github.com/prometheus/prometheus/releases/download/v2.18.1/prometheus-2.18.1.darwin-amd64.tar.gz``` 或者
-   前往https://prometheus.io/download/ 用浏览器下载
+1. 下载Prometheus：
+```
+wget https://github.com/prometheus/prometheus/releases/download/v2.18.1/prometheus-2.18.1.darwin-amd64.tar.gz
+``` 
+或者前往https://prometheus.io/download/ 用浏览器下载
 2. ```cd <prometheus-2.18.1.darwin-amd64.tar.gz 的下载目录>```
 3. 执行
 ```
