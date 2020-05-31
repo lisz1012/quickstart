@@ -7,7 +7,8 @@ wget https://github.com/prometheus/prometheus/releases/download/v2.18.1/promethe
 或者前往https://prometheus.io/download/ 用浏览器下载  
 2. 
 ```
-cd <prometheus-2.18.1.darwin-amd64.tar.gz 的下载目录>
+cd <prometheus-2.18.1.darwin-amd64.tar.gz 的下载目录>, 
+比如这里是：cd ~/Downloads
 ```
 3. 执行
 ```
