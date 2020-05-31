@@ -23,6 +23,6 @@ tar xvfz prometheus-*.tar.gz
 8. 刷新网页查看图表的变化
 
 ### 参考链接
-https://opencensus.io/quickstart/java/metrics/#0
-https://prometheus.io/docs/prometheus/latest/getting_started/
+https://opencensus.io/quickstart/java/metrics/#0  
+https://prometheus.io/docs/prometheus/latest/getting_started/  
 https://prometheus.io/download/
